@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/src/ProductService/ProductService.Core/obj/Debug/net9.0/ProductService.Core.AssemblyInfo.cs
+/src/ProductService/ProductService.Core/obj/Debug/net9.0/ProductService.Core.AssemblyInfoInputs.cache
+/src/ProductService/ProductServiceAPI/obj/Debug/net9.0/ProductServiceAPI.csproj.AssemblyReference.cache
+/src/ProductService/ProductServiceAPI/obj/Debug/net9.0/ProductServiceAPI.AssemblyInfoInputs.cache
+/src/ProductService/ProductServiceAPI/obj/Debug/net9.0/ProductServiceAPI.AssemblyInfo.cs
+/src/ProductService/ProductService.Infrastructure/obj/Debug/net9.0/ProductService.Infrastructure.csproj.AssemblyReference.cache
+/src/ProductService/ProductService.Infrastructure/obj/Debug/net9.0/ProductService.Infrastructure.AssemblyInfoInputs.cache
+/src/ProductService/ProductService.Infrastructure/obj/Debug/net9.0/ProductService.Infrastructure.AssemblyInfo.cs
