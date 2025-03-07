@@ -1,52 +1,21 @@
-﻿namespace ProductService.Core;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
+namespace ProductService.Core;
+
+[Table("Products")]
 public class Product
 {
-    public Guid Id { get; private set; }
-    public string Name { get; private set; }
-    public string Description { get; private set; }
-    public decimal Price { get; private set; }
-    public int AvailableStock { get; private set; }
-    public bool IsActive { get; private set; }
+    public Guid Id { get;  set; }
+    public string Name { get;  set; }
+    public string? Description { get;  set; }
+    public decimal Price { get;  set; }
+    public int StockQuantity { get;  set; }
+    public bool IsActive { get;  set; }
 
-    public Product(string name, string description, decimal price, int availableStock)
-    {
-        if (string.IsNullOrWhiteSpace(name))
-            throw new ArgumentException("Product name is required.");
-        if (price <= 0)
-            throw new ArgumentException("Product price must be greater than zero.");
-        if (availableStock < 0)
-            throw new ArgumentException("Stock cannot be negative.");
+    // Foreign Key to ProductCategory
+    public Guid CategoryId { get;  set; }
 
-        Id = Guid.NewGuid();
-        Name = name;
-        Description = description;
-        Price = price;
-        AvailableStock = availableStock;
-        IsActive = true;
-    }
+    // Navigation Property (Belongs to One Category)
+    public ProductCategory Category { get;  set; }
 
-    public void UpdateProductDetails(string name, string description, decimal price)
-    {
-        if (string.IsNullOrWhiteSpace(name))
-            throw new ArgumentException("Product name is required.");
-        if (price <= 0)
-            throw new ArgumentException("Product price must be greater than zero.");
-
-        Name = name;
-        Description = description;
-        Price = price;
-    }
-
-    public void AdjustStock(int quantity)
-    {
-        if (AvailableStock + quantity < 0)
-            throw new InvalidOperationException("Insufficient stock.");
-        AvailableStock += quantity;
-    }
-
-    public void DeactivateProduct()
-    {
-        IsActive = false;
-    }
 }

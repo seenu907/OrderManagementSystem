@@ -1,83 +1,47 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using ProductService.Core;
+using ProductService.Infrastructure;
 
-namespace ProductServiceAPI.Controllers
+namespace ProductServiceAPI.Controllers;
+
+[ApiController]
+[Route("api/products")]  
+public class ProductController : ControllerBase
 {
-    public class ProductController : Controller
+    private readonly IProductServices _productServices;
+
+    public ProductController(IProductServices productServices)
     {
-        // GET: ProductController
-        public ActionResult Index()
-        {
-            return View();
-        }
+        _productServices = productServices;
+    }
 
-        // GET: ProductController/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
+    [HttpPost]
+    public async Task<IActionResult> CreateProduct([FromBody] CreateProductRequest request)
+    {
+        var product = await _productServices.CreateProduct(request.ToProduct(), request.CategoryName);
+        return CreatedAtAction(nameof(GetProductById), new { id = product.Id }, product); //nameof(GetProductById)
+    }
 
-        // GET: ProductController/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
+    [HttpGet("GetAllProducts")]
+    public async Task<IActionResult> GetAllProducts()
+    {
+        var products = await _productServices.GetAllProducts();
+        return Ok(products);
+    }
+    [HttpGet("GetProduct/{id}")]
+    public async Task<IActionResult> GetProductById(Guid id)
+    {
+        var products = await _productServices.GetProductById(id);
+        return Ok(products);
+    }
 
-        // POST: ProductController/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: ProductController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: ProductController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: ProductController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: ProductController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
+    [HttpPut("{id}")]
+    public async Task<IActionResult> UpdateProduct(Guid id, [FromBody] UpdateProductRequest request)
+    {
+        var updated = await _productServices.UpdateProduct(request.UpdateProductDetails(id));
+        return updated ? NoContent() : NotFound();
     }
 }
+
+//public record CreateProductRequest(string Name, string Description, decimal Price, int Stock);
+//public record UpdateProductRequest(string Name, string Description, decimal Price);

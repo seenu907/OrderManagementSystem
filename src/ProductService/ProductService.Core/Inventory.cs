@@ -3,7 +3,7 @@
 public class Inventory
 {
     public Guid ProductId { get; private set; }
-    public int AvailableStock { get; private set; }
+    public int StockQuantity { get; private set; }
 
     public Inventory(Guid productId, int availableStock)
     {
@@ -11,7 +11,7 @@ public class Inventory
             throw new ArgumentException("Stock cannot be negative.");
 
         ProductId = productId;
-        AvailableStock = availableStock;
+        StockQuantity = availableStock;
     }
 
     public void ReduceStock(int quantity)
@@ -19,10 +19,10 @@ public class Inventory
         if (quantity <= 0)
             throw new ArgumentException("Quantity must be greater than zero.");
 
-        if (AvailableStock < quantity)
+        if (StockQuantity < quantity)
             throw new InvalidOperationException("Not enough stock available.");
 
-        AvailableStock -= quantity;
+        StockQuantity -= quantity;
     }
 
     public void AddStock(int quantity)
@@ -30,6 +30,6 @@ public class Inventory
         if (quantity <= 0)
             throw new ArgumentException("Quantity must be greater than zero.");
 
-        AvailableStock += quantity;
+        StockQuantity += quantity;
     }
 }
