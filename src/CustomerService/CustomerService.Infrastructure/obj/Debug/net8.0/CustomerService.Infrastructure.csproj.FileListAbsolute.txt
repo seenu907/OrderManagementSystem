@@ -1,0 +1,12 @@
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\bin\Debug\net8.0\CustomerService.Infrastructure.deps.json
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\bin\Debug\net8.0\CustomerService.Infrastructure.dll
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\bin\Debug\net8.0\CustomerService.Infrastructure.pdb
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\obj\Debug\net8.0\CustomerService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\obj\Debug\net8.0\CustomerService.Infrastructure.AssemblyInfoInputs.cache
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\obj\Debug\net8.0\CustomerService.Infrastructure.AssemblyInfo.cs
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\obj\Debug\net8.0\CustomerService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\obj\Debug\net8.0\CustomerService.Infrastructure.sourcelink.json
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\obj\Debug\net8.0\CustomerService.Infrastructure.dll
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\obj\Debug\net8.0\refint\CustomerService.Infrastructure.dll
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\obj\Debug\net8.0\CustomerService.Infrastructure.pdb
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Infrastructure\obj\Debug\net8.0\ref\CustomerService.Infrastructure.dll

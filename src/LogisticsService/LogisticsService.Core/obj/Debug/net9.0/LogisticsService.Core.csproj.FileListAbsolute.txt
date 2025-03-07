@@ -1,0 +1,12 @@
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\bin\Debug\net9.0\LogisticsService.Core.deps.json
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\bin\Debug\net9.0\LogisticsService.Core.dll
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\bin\Debug\net9.0\LogisticsService.Core.pdb
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\obj\Debug\net9.0\LogisticsService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\obj\Debug\net9.0\LogisticsService.Core.AssemblyInfoInputs.cache
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\obj\Debug\net9.0\LogisticsService.Core.AssemblyInfo.cs
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\obj\Debug\net9.0\LogisticsService.Core.csproj.CoreCompileInputs.cache
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\obj\Debug\net9.0\LogisticsService.Core.sourcelink.json
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\obj\Debug\net9.0\LogisticsService.Core.dll
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\obj\Debug\net9.0\refint\LogisticsService.Core.dll
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\obj\Debug\net9.0\LogisticsService.Core.pdb
+C:\OrderManagementSystem\src\LogisticsService\LogisticsService.Core\obj\Debug\net9.0\ref\LogisticsService.Core.dll

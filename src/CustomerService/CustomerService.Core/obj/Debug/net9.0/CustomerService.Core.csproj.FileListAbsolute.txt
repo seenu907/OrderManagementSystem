@@ -1,0 +1,12 @@
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\bin\Debug\net9.0\CustomerService.Core.deps.json
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\bin\Debug\net9.0\CustomerService.Core.dll
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\bin\Debug\net9.0\CustomerService.Core.pdb
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\obj\Debug\net9.0\CustomerService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\obj\Debug\net9.0\CustomerService.Core.AssemblyInfoInputs.cache
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\obj\Debug\net9.0\CustomerService.Core.AssemblyInfo.cs
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\obj\Debug\net9.0\CustomerService.Core.csproj.CoreCompileInputs.cache
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\obj\Debug\net9.0\CustomerService.Core.sourcelink.json
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\obj\Debug\net9.0\CustomerService.Core.dll
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\obj\Debug\net9.0\refint\CustomerService.Core.dll
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\obj\Debug\net9.0\CustomerService.Core.pdb
+C:\OrderManagementSystem\src\CustomerService\CustomerService.Core\obj\Debug\net9.0\ref\CustomerService.Core.dll

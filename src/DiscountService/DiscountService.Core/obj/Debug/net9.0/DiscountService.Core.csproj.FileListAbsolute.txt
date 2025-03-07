@@ -1,0 +1,12 @@
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\bin\Debug\net9.0\DiscountService.Core.deps.json
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\bin\Debug\net9.0\DiscountService.Core.dll
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\bin\Debug\net9.0\DiscountService.Core.pdb
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\obj\Debug\net9.0\DiscountService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\obj\Debug\net9.0\DiscountService.Core.AssemblyInfoInputs.cache
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\obj\Debug\net9.0\DiscountService.Core.AssemblyInfo.cs
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\obj\Debug\net9.0\DiscountService.Core.csproj.CoreCompileInputs.cache
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\obj\Debug\net9.0\DiscountService.Core.sourcelink.json
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\obj\Debug\net9.0\DiscountService.Core.dll
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\obj\Debug\net9.0\refint\DiscountService.Core.dll
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\obj\Debug\net9.0\DiscountService.Core.pdb
+C:\OrderManagementSystem\src\DiscountService\DiscountService.Core\obj\Debug\net9.0\ref\DiscountService.Core.dll

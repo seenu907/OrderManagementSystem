@@ -1,0 +1,12 @@
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Infrastructure.deps.json
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Infrastructure.dll
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Infrastructure.pdb
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.AssemblyInfo.cs
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.sourcelink.json
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.dll
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\refint\OrderService.Infrastructure.dll
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.pdb
+C:\OrderManagementSystem\src\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\ref\OrderService.Infrastructure.dll

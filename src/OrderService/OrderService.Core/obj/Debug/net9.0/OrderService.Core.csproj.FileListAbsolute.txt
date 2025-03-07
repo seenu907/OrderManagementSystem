@@ -1,0 +1,12 @@
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\bin\Debug\net9.0\OrderService.Core.deps.json
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\bin\Debug\net9.0\OrderService.Core.dll
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\bin\Debug\net9.0\OrderService.Core.pdb
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.AssemblyInfoInputs.cache
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.AssemblyInfo.cs
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.csproj.CoreCompileInputs.cache
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.sourcelink.json
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.dll
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\obj\Debug\net9.0\refint\OrderService.Core.dll
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\obj\Debug\net9.0\OrderService.Core.pdb
+C:\OrderManagementSystem\src\OrderService\OrderService.Core\obj\Debug\net9.0\ref\OrderService.Core.dll
