@@ -10,3 +10,4 @@ C:\OrderManagementSystem\src\ProductService\ProductService.Infrastructure\obj\De
 C:\OrderManagementSystem\src\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\refint\ProductService.Infrastructure.dll
 C:\OrderManagementSystem\src\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.pdb
 C:\OrderManagementSystem\src\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ref\ProductService.Infrastructure.dll
+C:\OrderManagementSystem\src\ProductService\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.csproj.AssemblyReference.cache

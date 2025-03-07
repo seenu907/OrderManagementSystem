@@ -1,0 +1,12 @@
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\bin\Debug\net8.0\ProductService.Core.deps.json
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\bin\Debug\net8.0\ProductService.Core.dll
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\bin\Debug\net8.0\ProductService.Core.pdb
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\obj\Debug\net8.0\ProductService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\obj\Debug\net8.0\ProductService.Core.AssemblyInfoInputs.cache
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\obj\Debug\net8.0\ProductService.Core.AssemblyInfo.cs
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\obj\Debug\net8.0\ProductService.Core.csproj.CoreCompileInputs.cache
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\obj\Debug\net8.0\ProductService.Core.sourcelink.json
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\obj\Debug\net8.0\ProductService.Core.dll
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\obj\Debug\net8.0\refint\ProductService.Core.dll
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\obj\Debug\net8.0\ProductService.Core.pdb
+C:\OrderManagementSystem\src\ProductService\ProductService.Core\obj\Debug\net8.0\ref\ProductService.Core.dll
